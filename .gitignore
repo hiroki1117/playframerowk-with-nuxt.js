@@ -1,0 +1,13 @@
+logs
+target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+
+resources/node_modules
+resources/npm-debug.log
+resources/.nuxt
+resources/dist
